@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-analogreader",
+  "version": "0.0.1",
+  "description": "Reader to read value from sensors on analog pin",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bc. Tomáš Zátka",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "homebridge": "^1.4.0"
+  },
+  "engines": {
+    "homebridge": "^1.4.0"
+  }
+}
